@@ -1,5 +1,5 @@
 [rsschool-cv](https://aguleykov.github.io/rsschool-cv/ "Resume Aleksandr Tretiakov")
-*****
+
 # **Aleksandr Tretiakov**
 *****
 ## Contacts
