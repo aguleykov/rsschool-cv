@@ -1,0 +1,16 @@
+h1,h2,h3 {
+	color: rgb(165, 42, 42);
+}
+
+.photo {
+	height: 350px;
+	width: 250px;
+	border-radius: 50%;
+	text-align: center;
+}
+
+.code {
+	color: green;
+}
+
+
